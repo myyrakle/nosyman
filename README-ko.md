@@ -10,7 +10,7 @@
 
 설치 방법은 간단합니다. 설치 후 심볼릭 링크만 달아줍니다. (sudo 사용을 위함)
 ```
-cargo install nodyman
+cargo install nosyman
 sudo ln -s /home/$USER/.cargo/bin/nosyman /usr/bin/nosyman
 ```
 
