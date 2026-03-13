@@ -13,7 +13,7 @@ Currently, operation is only guaranteed on Linux.
 Installation is simple. After installation, just add a symbolic link. (for use with sudo)
 
 ```
-cargo install nodyman
+cargo install nosyman
 sudo ln -s /home/$USER/.cargo/bin/nosyman /usr/bin/nosyman
 ```
 
